@@ -1,3 +1,3 @@
-# Industry Sprint Workshop
+# VISP Workshop
 
-python -m streamlit run .\dsm2023.py
+python -m streamlit run .\app/main.py
