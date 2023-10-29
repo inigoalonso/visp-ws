@@ -1,0 +1,4 @@
+﻿id;name;description;min_R;reliability;price;cost;market_share_1;market_share_2;market_share_3;market_units_1;market_units_2;market_units_3;market_revenue_1;market_revenue_2;market_revenue_3;market_profit_1;market_profit_2;market_profit_3;total_units;total_revenue;total_profit
+1;System 1;Only front steering;10,7;0,82;100;90;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;System 2;Front + Back steering (hydraulic);8;0,75;110;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;System 3;Front + Back steering (electric);7,6;0,8;110;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
